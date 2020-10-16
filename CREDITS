@@ -1,0 +1,10 @@
+
+Name: Papirus icon theme
+Creator: Alexey Varfolomeev (https://github.com/varlesh)
+Licence: GPL-3.0
+Files:
+- resources/app/icon.png
+- resources/app/icon-tray.png
+- resources/app/icon-tray.svg
+- resources/app/icon-status.png
+- resources/app/icon-status.svg
